@@ -1,2 +1,2 @@
 # TestGitHub
-Tylko testuje
+Tylko testuje ale może kiedyś zrobię coś jeszcze, kto wie.
